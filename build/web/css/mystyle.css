@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 04-Jun-2024, 12:10:41 am
+    Author     : Jay Hire
+*/
+.primary-color{
+    background-color: #29B6F6 !important;
+}
+/* */
+
+
+.icon-margin{
+    
+   margin: 5px !important;
+    
+}
+
+.banner-bg{
+    
+  clip-path: polygon(20% 0%, 80% 0%, 100% 0, 100% 80%, 74% 95%, 25% 81%, 0 96%, 0 0);
+
+}
